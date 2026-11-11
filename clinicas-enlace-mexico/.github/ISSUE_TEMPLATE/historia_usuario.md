@@ -1,0 +1,16 @@
+---
+name: Historia de usuario
+about: Una historia del backlog vinculada a sus requisitos del SRS
+title: "HU-XX: "
+labels: historia
+---
+
+**Historia:** Como [rol], quiero [acción] para [beneficio].
+
+**Requisitos del SRS:** RF-...
+**Sprint:** ...
+**Puntos:** ...
+
+**Criterios de aceptación**
+- [ ] CA-...
+- [ ] CA-...
